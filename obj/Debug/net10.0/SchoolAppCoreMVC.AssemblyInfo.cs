@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolAppCoreMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ec1cd725d8308793470dcc7ff70f495fb66eba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b0321b68ec058c9a9215b886e929adef17bfc94")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolAppCoreMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolAppCoreMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
