@@ -344,3 +344,4 @@
 /config/workspace/QuocAnh/ASPNETCoreMVCSchoolApp/obj/Debug/net10.0/SchoolAppCoreMVC.pdb
 /config/workspace/QuocAnh/ASPNETCoreMVCSchoolApp/obj/Debug/net10.0/SchoolAppCoreMVC.genruntimeconfig.cache
 /config/workspace/QuocAnh/ASPNETCoreMVCSchoolApp/obj/Debug/net10.0/ref/SchoolAppCoreMVC.dll
+/config/workspace/QuocAnh/ASPNETCoreMVCSchoolApp/obj/Debug/net10.0/SchoolAppCoreMVC.sourcelink.json
